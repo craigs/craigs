@@ -10,7 +10,7 @@ See what's on in [Melbourne](https://whatson.melbourne.vic.gov.au/)
 ## Work
 
 I work with great people at [Elevate Partners](https://elevate.com.au) and am
-currently help build great things at [Digit.co](https://digit.co)
+currently helping build great things at [Digit.co](https://digit.co)
 
 ## Open source
 
