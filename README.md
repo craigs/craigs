@@ -7,11 +7,6 @@ See what's on in [Melbourne](https://whatson.melbourne.vic.gov.au/)
 - Here is my [LinkedIn profile](https://www.linkedin.com/in/craigs0)
 - Chat to me on [twitter](https://twitter.com/craigs_io)
 
-## Work
-
-I work with great people at [Elevate Partners](https://elevate.com.au) and am
-currently helping build great things at [Digit.co](https://digit.co)
-
 ## Open source
 
 **[craigs/personal-site](https://github.com/craigs/personal-site)**
